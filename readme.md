@@ -13,3 +13,6 @@
 - CORS
 - bcrypt
 - JWT (JSON Web Token)
+- Cookie parser
+- Multer - (handling file uploading)
+- Cloudinary
