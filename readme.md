@@ -6,5 +6,8 @@
 
 - Node JS
 - Express JS
-- MongoDB - Mongoose (ORM)
+- MongoDB
+  - Mongoose (ORM)
+  - Atlas
+  - Mongoose aggregate paginate (mongoose-aggregate-paginate-v2)
 - CORS
